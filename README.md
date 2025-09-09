@@ -32,13 +32,13 @@
 
 ---
 
-## 📂 Output Files
+#Output Files
 - `X_normalized.npy` → Normalized version of the random 5x5 array.  
 - `div_by_3.npy` → Elements from the 10x10 array divisible by 3.  
 
 ---
 
-## ▶️ How to Run
+#How to Run
 1. Open the code in **Jupyter Notebook**.  
 2. Run all cells.  
 3. The `.npy` files will be generated in the same directory.  
